@@ -1,0 +1,6 @@
+body {
+    margin: 0;
+    padding: 8px;
+    border-top: 16px solid rgb(51, 92, 255);
+    box-sizing: content-box;
+}
